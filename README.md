@@ -1,4 +1,4 @@
-[[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.euthissa.in/assets/img/portfolio/webdevel.gif)](https://www.euthissa.in/assets/img/portfolio/webdevel.gif)
+<!-- [[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.euthissa.in/assets/img/portfolio/webdevel.gif)](https://www.euthissa.in/assets/img/portfolio/webdevel.gif) -->
 <h1 align="center">Hi 👋, I'm Muhammed Bojang</h1>
 <h3 align="center">A passionate full-stack software engineer</h3>
 
