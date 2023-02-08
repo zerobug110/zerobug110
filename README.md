@@ -18,10 +18,10 @@ I am an energetic and imaginative full stack software engineer who is able to wo
 #
 
 ![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobug110&show_icons=true&theme=gruvbox)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&theme=gruvbox" alt="zerobug110" />
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=zerobug110&theme=gruvbox&border_radius=4.5) -->
 
-<br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&theme=gruvbox" alt="zerobug110" /></br>
+
 
 #
 
