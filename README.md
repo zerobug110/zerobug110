@@ -21,11 +21,8 @@ I am an energetic and imaginative full stack software engineer who is able to wo
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=zerobug110&theme=gruvbox&border_radius=4.5) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&layout=compact" alt="zerobug110" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&layout=compacttheme=gruvbox" alt="zerobug110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerobug110&show_icons=true&locale=en" alt="zerobug110" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerobug110&" alt="zerobug110" /></p>
 #
 
 <details>
