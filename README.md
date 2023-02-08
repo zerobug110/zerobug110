@@ -4,6 +4,13 @@ I am an energetic and imaginative full stack software engineer who is able to wo
 
 ---
 
+#
+
+![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobug110&show_icons=true&theme=gruvbox)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&theme=gruvbox" alt="zerobug110" />
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=zerobug110&theme=gruvbox&border_radius=4.5) -->
+
+
 ### 🧰 Languages and Tools
 
 <p align="left">
@@ -19,10 +26,5 @@ I am an energetic and imaginative full stack software engineer who is able to wo
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - And all this while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in programming. A desire that landed me a full-stack software engineering job upon graduation. During my time working as a full-stack developer i was also working as a data statistician remotely for a company based in the Uk. Now i am more focused on building scalable and maintainable applications.
 
 
-#
-
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerobug110&show_icons=true&theme=gruvbox)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerobug110&show_icons=true&locale=en&theme=gruvbox" alt="zerobug110" />
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=zerobug110&theme=gruvbox&border_radius=4.5) -->
 
 #
