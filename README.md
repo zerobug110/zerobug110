@@ -22,7 +22,7 @@ I am an energetic and imaginative full stack software engineer who is able to wo
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=zerobug110&theme=gruvbox&border_radius=4.5) -->
 
 
-
+<br>
 <br />
 <details>
  <summary><h3>👨🏾‍💻 Muhammed's Coding Journey</h3></summary>
