@@ -16,6 +16,6 @@ I am an energetic and imaginative full stack software engineer who is able to wo
 
 
  <details>
- <summary><h3>👨🏾‍💻 Muhammed's Coding Journey</h3></summary>
+ <summary><h4>👨🏾‍💻 Muhammed's Coding Journey</h4></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - And all this while, teaching myself web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in programming. A desire that landed me a full-stack software engineering job upon graduation. During my time working as a full-stack developer i was also working as a data statistician remotely for a sport company based in the Uk. Now i am more focused on building scalable and maintainable applications.
 
