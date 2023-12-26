@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Muhammed Bojang
 
-I am an energetic & imaginative full-stack software developer who is able to work alongside other talented IT professionals in creating software to the very highest standard. hit me up and  let's talk about React, Angular, Node.js & Typescript.
+I am an energetic & imaginative full-stack software developer who can work alongside other talented IT professionals in creating software to the very highest standard. hit me up and  let's talk about React, Angular, Node.js & Typescript.
 
 
 ### 🧰 Tools & Languages 
