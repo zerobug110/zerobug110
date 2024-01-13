@@ -13,4 +13,4 @@ I am an energetic & imaginative full-stack software developer who can work along
 
  <details>
  <summary><h4>👨🏾‍💻 Muhammed's Coding Journey</h4></summary>
-   I started my coding journey as a naive computer science student with a passion for learning everything I could about this programming world - And all this while, teaching myself web development with a dream to build my app, but that soon got overshadowed by my desire to excel in programming. A desire that landed me a full-stack software developer job upon graduation. 
+   I started my coding journey as a naive computer science student with a passion for learning everything I could about this programming world - And all this while, teaching myself web development with a dream to build my app, but that soon got overshadowed by my desire to excel in programming. A desire that landed me a full-stack developer job upon graduation. 
